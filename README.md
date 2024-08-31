@@ -1,3 +1,4 @@
+
 # Food-beverage-industry-
 
 This project is codebasics resume project challange #6.
@@ -20,3 +21,9 @@ Young people influenced by the online ads. People who consume most energy drinks
 **Who can be a brand ambassador, and why?**
 With 253+ million Instagram followers, Virat Kohli has immense influence over the youth, making him an ideal ambassador for our product.
 Virat Kohli is widely recognized for his exceptional mental and physical strength, which sets him apart as a remarkable role model for the youth.
+
+![Screenshot (852)](https://github.com/user-attachments/assets/eac25846-a193-41db-abd5-254b866d8189)
+![Screenshot (851)](https://github.com/user-attachments/assets/c95114c8-659a-441a-871c-3ac7e5012fb9)
+![Screenshot (850)](https://github.com/user-attachments/assets/eb528093-7afd-4ecc-a925-89bab5a96cb9)
+![Screenshot (849)](https://github.com/user-attachments/assets/ddf9d882-2ac5-4272-b35a-04014e5a70b5)
+![Screenshot (848)](https://github.com/user-attachments/assets/b42fa40a-b6c0-4dc5-b627-4566e103e8a3)
